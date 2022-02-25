@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The parable of the puppies, or, The top-knots vindicated</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55704</idno>
+            <idno type="STC">Wing P325</idno>
+            <idno type="STC">ESTC R5273</idno>
+            <idno type="EEBO-CITATION">13084275</idno>
+            <idno type="OCLC">ocm 13084275</idno>
+            <idno type="VID">97275</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97275)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The parable of the puppies, or, The top-knots vindicated</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Burdet,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A satire on men's fashions in reply to The parable of the top-knots.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Men's clothing --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97275:1"/>
+            <head>THE PARABLE OF THE PUPPIES: OR THE <hi>Top-Knots Vindicated.</hi>
+            </head>
+            <head>Licenſed and Entred according to Order.</head>
+            <p>THE Bookſeller has promiſed you a <hi>Parable,</hi> and a <hi>Parable</hi> you muſt have: Tho the Sub<g ref="char:EOLhyphen"/>ject of this Paper needs no Mask, yet for Faſhion's ſake we'll dreſs it up <hi>A<g ref="char:EOLhyphen"/>la-mode.</hi>
+            </p>
+            <p>Not long ago a <hi>young Engliſh Spa<g ref="char:EOLhyphen"/>niel Bitch,</hi> called <hi>Phancy,</hi> was big with Puppies, and having gon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> creeping and ſniveling about as long as ſhe was able to bear her Burthen, at laſt ſhe Litter'd, and brought forth a par<g ref="char:EOLhyphen"/>cel of hopeful <hi>Male-Whelps,</hi> with<g ref="char:EOLhyphen"/>out ever calling for Lady <hi>Lucina</hi>'s help: I cannot exactly remember their number, tho ſome ſay they were a Dozen; but I can tell you ſome of their Names; for they were ſoon Chriſtened without either Parſon or Godfather to aſſiſt at the Ceremony: There was <hi>Fopling, Drunkard, Game<g ref="char:EOLhyphen"/>ſter, Tory-rory, Delicate, Amorous, Shar<g ref="char:EOLhyphen"/>per,</hi> and more that I have forgot.</p>
+            <p>They were fine forward Puppies to look upon, ſuck'd eagerly, and were mighty fond of their <hi>Dam.</hi> They ſoon got over their Nine Days Blind<g ref="char:EOLhyphen"/>neſs, and began to play the <hi>Wanto<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> juſtling each other for Precedency whelking, ſnarling, curvetting, and twenty pretty Tricks beſides.</p>
+            <pb n="2" facs="tcp:97275:2"/>
+            <p>It chanc'd that ſome of theſe <hi>Pup<g ref="char:EOLhyphen"/>pies,</hi> as ſoon as they were able to tra<g ref="char:EOLhyphen"/>vel, were ſent beyond Sea to <hi>learn Fa<g ref="char:EOLhyphen"/>ſhions, how to Fetch and Carry, to beg with a boon Mien, jump over a Stick for the King, and the like.</hi> Now among the reſt, <hi>Fopling</hi> was ſent to <hi>France,</hi> where he learnt to fawn, wag his Tail with a Grace, lick, cringe, hunt a Duck, and all the Accompliſhments fit for an Engliſh <hi>Spaniel;</hi> ſo that at his return for <hi>England,</hi> his <hi>Dam Phancy</hi> ſmelling to him, preſently knew him to be her <hi>none dear Puppy;</hi> and there were a World of Endearments, <hi>Dog and Bitch Complements,</hi> fawning Hugs, Horſe-Buſſes, and ſuch like Ceremo<g ref="char:EOLhyphen"/>nies paſſed between 'em; and <hi>Fopling</hi> began to be ſome body in the Family, every Whelp was in love with his Carriage; he bark'd, hunted, fought, lick'd, cring'd and curvetted <hi>a-la-mode de Paris:</hi> All his Actions and his whole Air was French, ſo that he was ſet for a Pattern of Good-Breeding to all the Whelps of the Family. But no<g ref="char:EOLhyphen"/>thing proved ſo advantagious to his <hi>Whelp-ſhip's</hi> Perſon, as the <hi>Dreſs</hi> which he brought over with him from <hi>France.</hi> For it being the Faſhion there for all the Puppies to be ſhav'd, and have <hi>Perukes</hi> made of Shock-Dogs long Hair, our Engliſh Spaniel, little <hi>Fop<g ref="char:EOLhyphen"/>ling,</hi> muſt needs be in the Faſhion too, and gets him a ſwinging Shock Wig, which made him look vary gracefully, much like <hi>Trinkala</hi>'s Monſter in the Tempeſt, or like a Barbers <hi>Decoy-Block</hi> ſet out with polite <hi>Chedreuz,</hi> to draw Cuſtomers to the Shop. And if <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou'd know the Truth on't, 'tis this has <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade the Shock-Dogs ſo Curriſh ever <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, to ſee themſelves mock'd by e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery Apiſh Spaniel.</p>
+            <p>However, little <hi>Fopling</hi> was mighti<g ref="char:EOLhyphen"/>ly admir'd for his Shock-Wig, and all the Whelps of his Litter were reſolv'd to imitate his Example: <hi>Drunkard</hi> produc'd Phyſical Reaſons for it, and ſaid 'twas good for the Head-ach after a Debauch of Wine. <hi>Gameſter</hi> and <hi>Sharper</hi> ſaid, 'twas a Politick Faſhion, a cunning Diſguiſe for Rooks and Cheats. <hi>Tory-rory</hi> ſaid, it made a Dog <hi>look Great,</hi> and created a re<g ref="char:EOLhyphen"/>ſpect in the Vulgar Whelps of the Neighbourhood. <hi>Delicate</hi> and <hi>Amou<g ref="char:EOLhyphen"/>rous</hi> pleaded, That it rendred the Face more amiable and charming. The reſt of the Whelps alſo had their ſe<g ref="char:EOLhyphen"/>veral Reaſons, and all agreed in this, That they would be in the <hi>Mode.</hi>
+            </p>
+            <p>So they all went to <hi>Tonſor</hi>'s, a Pup<g ref="char:EOLhyphen"/>py that had been bred in <hi>France,</hi> but now Kennel'd in the Neighbour<g ref="char:EOLhyphen"/>hood. His whole Gift lay in Lavering and Shaving the <hi>Whelps,</hi> in curling and criſping their Hair, waſhing, patching and painting their Mangy Faces, and making of Shock-Wigs. 'Tis incredible what a Trade <hi>Tonſor</hi> got in a ſmall time among theſe Whelps, and the reſt of the Litter. For in the firſt place, as ſoon as <hi>Fopling</hi> walk'd in a Morning, and ſhook his ſtinking Ears, was almoſt choak'd with his own <hi>Hogo,</hi> till he had ſent for <hi>Puppy-Tonſor</hi> to perfume and powder him. Then for Drunkard, he was a Noun Adjective, and could hardly ſtand alone, till <hi>Puppy-Tonſor</hi> had with Comb, Waſh-Ball, and Benjamin ſettled his Addle Brains. Neither could <hi>Tory-rory, Gameſter</hi> or <hi>Sharper</hi> do any buſi<g ref="char:EOLhyphen"/>neſs, till they had paſs'd through <hi>Ton<g ref="char:EOLhyphen"/>ſor</hi>'s Office. And as for <hi>Delicate</hi> and <hi>Amorous,</hi> they had no other Buſineſs to do, but to ſee and be ſeen, and therefore <hi>Tonſor</hi>'s Art was as neceſſary to them, as their Meat and Drink. In
+<pb n="3" facs="tcp:97275:2" rendition="simple:additions"/>fine, <hi>Tonſor</hi>'s Office grew ſo much in Requeſt, that at long run the better ſort of Puppies would have none but <hi>Tonſors</hi> for their <hi>Valet-de-Chambre.</hi> For you muſt note by the way, that Bitch <hi>Phancy</hi> had Litter'd and Litter'd again for many years together, ſo that in time all <hi>England</hi> was ſtock'd with Puppies of the ſame Breed. You could not ſet your Foot in a Pariſh where there were not ſome of <hi>Phan<g ref="char:EOLhyphen"/>cy</hi>'s Whelps, <hi>Puppies upon Puppies, Ton<g ref="char:EOLhyphen"/>ſors upon Tonſors,</hi> and they multiplied ſo faſt, that one <hi>Tonſor</hi> could hardly live for another.</p>
+            <p>I will not tire your Patience with any more of the <hi>Parable,</hi> but come to the plain Engliſh, the Intrin<g ref="char:EOLhyphen"/>ſical Marrow-bone of the matter:</p>
+            <p>The Men do but make Rods for themſelves, in lampooning Womens innocent Dreſſes: And the Author of the <hi>Top-Knots</hi> had better held his Peace, than provok'd a <hi>Female Pen</hi> a<g ref="char:EOLhyphen"/>gainſt the Fops of his Sex; pretty Womaniſh things, that firſt taught us, and now exceed us in all manner of Effeminacy.</p>
+            <p>Is it not a pleaſant and very divert<g ref="char:EOLhyphen"/>ing Spectacle, to ſee a Fellow, as ſoon as he is out of his Bed in a Morning, run to the Looking-Glaſs, and pay his firſt Devotions to the worſhipful Figure of himſelf? To play the <hi>Nar<g ref="char:EOLhyphen"/>ciſſus</hi> with his own Shadow, and make his Court with an hundred and twenty Grimaces to his pretty <hi>Pigs-nies?</hi> Is it not a manly Exerciſe to ſtand licking his Lips into Rubies, painting his Cheeks into Cherries, patching his Pim-ginits, Carbuncles and Buboes? To ſee another ſtriving to out-do <hi>Apelles</hi> in counterfeiting the lovely Eyebrow? A third to be two long Hours in careen<g ref="char:EOLhyphen"/>ing his Hair or Peruke? A fourth as tedious in adjuſting his <hi>Crevat-ſtring?</hi> Is it not very comical to ſee the Fop ſtrutting up and down his Chamber, ſurveying himſelf from Head to Foot, firſt turning one Shoulder, then t'other, now looking fore-right in the Glaſs, then turning his Poſteriors, tiffling with the Curls in his VVig, tying and untying his Crevat, writhing himſelf into as many Poſtures as he in the <hi>Pall-Mall;</hi> and yet after all his <hi>Fore<g ref="char:EOLhyphen"/>noon Speculation,</hi> not being ſatisfied, till he has conſulted his flattering <hi>Valet?</hi> I will not trouble you with all the Im<g ref="char:EOLhyphen"/>pertinent Dialogue that paſſes be<g ref="char:EOLhyphen"/>tween 'em; but after they have Par<g ref="char:EOLhyphen"/>rotted over the <hi>Brandenburgh, Che<g ref="char:EOLhyphen"/>dreux, Eſcla't, Orangers, Picards, Pul<g ref="char:EOLhyphen"/>vilio, Rous, Surtout,</hi> and a deal more of Ribble Rabble, Pedlers French; and after Mounſieur <hi>Gnaw-bone</hi> has compleatly equip'd his Maſter <hi>en Che<g ref="char:EOLhyphen"/>valier,</hi> the ſpark ſallies forth of his Chamber like a Peacock, beſeeching the VVinds to favour his delicate Friz, and not put a Lock or a Curl out of Joynt. Then 'tis very edifying to mind how the Coxcomb angles for Ad<g ref="char:EOLhyphen"/>mirers: The good-natur'd Animal fanceis every Body's in Love with him, that caſts an Eye on his Accompliſh'd Phis'nomy and Dreſs as he walks a<g ref="char:EOLhyphen"/>long the Street, I ſhould have ſaid danc'd along, for he ſcorns to walk the vulgar Mechanick Pace.</p>
+            <p>You'd be no leſs taken with the Scene, when our Spark, as he is mov<g ref="char:EOLhyphen"/>ing along, like an Image of VVax, or Piece of Italian Clockwork, deeply oc<g ref="char:EOLhyphen"/>cupied in the Contemplation of this wonderful Fabrick, is ſuddenly accoſt<g ref="char:EOLhyphen"/>ed by a Friend out of the Country, whom he has not perhaps ſeen for a year together; what ducking, crin<g ref="char:EOLhyphen"/>ging and ſcraping there is between
+<pb n="4" facs="tcp:97275:3" rendition="simple:additions"/>'em? You would think at firſt they were go<g ref="char:EOLhyphen"/>ing to unbuckle one anothers Shoes, ſo low go their Hands, as to touch each others Ankle! Then up they mount again, firſt over one Shoulder, and then over t'other, ſlabbering each others Cheeks like a couple of good-natur'd Colts, that take turns to lick one another where it itches; you'd ſwear they were <hi>Harlekin</hi>'s Ba<g ref="char:EOLhyphen"/>ſtards, and were practiſing the Anticks. It muſt needs be a ſweet Exerciſe for a couple of Pup<g ref="char:EOLhyphen"/>pies to bruſh one anothers Chaps with their briſtled Beards! Eſpecially when perfum'd with the odoriferous Scent of Tobacco.</p>
+            <p>Purſue him to the Coffee-Houſe, where he generally takes his Mornings Draught, and youd find him either the Cypher, or the Single Ten of the Company. Either he ſits like <hi>Jack Adams,</hi> and brings forth nothing but a few dull Stories, the Tackers together of other Mens Words; or if he ventures to let his em<g ref="char:EOLhyphen"/>pty Noddle take wind, all his Diſcourſe is of Dreſſes, Pimps and Whores, or the like inſigni<g ref="char:EOLhyphen"/>ficant Stuff, embroidered now and then with Oaths and God-d—mes, which renders him the Scorn of all Civil Company. Men of Senſe Lampoon him to his Face, and he takes it for a <hi>Panegyríck:</hi> And the very Coffee-Boys having once found out the Gallants ſoft place, bur<g ref="char:EOLhyphen"/>leſques upon the <hi>Noble Squire,</hi> while the Silly Creature takes all this for Reſpect.</p>
+            <p>Trace him from thence to the <hi>Ordinary,</hi> or <hi>Eating-Houſe;</hi> if he dines alone, he may paſs for a wiſe Man, according to the old Rule, <hi>That a Fool cannot be known to be ſuch by his ſi<g ref="char:EOLhyphen"/>lence.</hi> But if he engages with other Company, they make a double uſe of him, one to help their Digeſtion, by affording them continual matter of Laughter and Ridicule, and the other to pay the odd Mony of the Reckoning, which the eaſie Fop never refuſes, that he may appear a complaiſant and well-bred Gentleman.</p>
+            <p>And now his Belly's full, the Lambkin be<g ref="char:EOLhyphen"/>gins to grow wanton, and has a great mind to viſit his <hi>Sempſtreſs</hi> or <hi>Milliners Shop,</hi> on purpoſe to be admir'd by little Miſs that ſits behind the Counter, with whom he enters into a profound Chat about the <hi>neweſt Faſhion for Crevats,</hi> what colour'd Ribband is moſt proper for that Sea<g ref="char:EOLhyphen"/>ſon? How deep Men wear their Ruffles? When he has run himſelf out of Breath with a Ca<g ref="char:EOLhyphen"/>talogue of the various <hi>Whim-whams,</hi> ſuch Coxcombs as he wear about 'em, he makes a Parentheſis (by peeping in the Glaſs that hangs up in the Shop) finding fault with his Barber, Laundreſs, Taylor, <hi>&amp;c.</hi> on purpoſe to draw her Eyes towards his Idolized Self. Here be<g ref="char:EOLhyphen"/>gins the Rehearſal of his Morning's Chamber<g ref="char:EOLhyphen"/>work: He picks a Quarrel with his Crevat, that he may engage pretty Miſs to tie it anew for him, and then he has a fair Opportunity to make Love by a thouſand little effeminate Tricks. Then his Ruffles don't ſit to pleaſe him, and Miſs is employed again. Here's ano<g ref="char:EOLhyphen"/>ther advantage, to ſhew his <hi>White Hand,</hi> whilſt the fond Coxcomb falls in Love by the ſame methods which he uſes to captivate her; and ſhe laughs in her Sleeve at the ridiculous effe<g ref="char:EOLhyphen"/>minacy and ſoftneſs of him, who might other<g ref="char:EOLhyphen"/>wiſe paſs for a Man.</p>
+            <p>If he goes from hence to the Play-Houſe on a Day when Sir <hi>Fopling Flutter,</hi> Sir <hi>Martin Mar<g ref="char:EOLhyphen"/>all,</hi> Sir <hi>Courtly Nice,</hi> or any other Comedy is Acted, that may ſerve as a Mirrour for him to ſee his own Folly in, He has hardly pati<g ref="char:EOLhyphen"/>ence to ſit the <hi>firſt Act</hi> out; but as ſoon as that's over, he flies out of the Pit in a Huff, calls for his <hi>Half-Crown,</hi> plays the Critick, damns the Play, away he troops like a Knight-Errant to hunt for new Adventures; for he knows not what that <hi>Mechanick Thing,</hi> called <hi>Buſineſs,</hi> means. He ſtrolls up and down the Streets, and is never out of his Road, ſo long as he's within Scent of a Tavern or Alehouſe, where he may idly paſs away his Hours, till the <hi>Even<g ref="char:EOLhyphen"/>ing Change Time</hi> calls for him to beat the Hoof in <hi>Fleetſtreet, Cheapſide,</hi> or the <hi>Strand,</hi> in pur<g ref="char:EOLhyphen"/>ſuit of ſome <hi>Female Bargain.</hi> But here's the Deel on't, tho he means well, yet his <hi>Luck's</hi> nought; for he is a Fumbler at Courtſhip, that the better ſort of <hi>Night-Walkers</hi> put him out of Countenance, and he is forc'd either to take up with ſome <hi>Ordinary Pug,</hi> who <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en to one picks his Pockets before ſhe leaves him; or be<g ref="char:EOLhyphen"/>ing baulk'd in this important Deſign, he ſneaks into ſome Coffee-Houſe, to end the Day as he began it, and go Home to Bed the <hi>ſame Fop he roſe.</hi>
+            </p>
+            <p>After all this, Gentlemen, will you perſiſt to libel Women, becauſe they uſe ſome inno<g ref="char:EOLhyphen"/>cent Arts to reclaim you from theſe Follies? Believe me, our <hi>Towers</hi> and <hi>Top-knots</hi> are no other than Satyrs on your <hi>high criſp'd Wigs,</hi> and <hi>Dangling Locks,</hi> your <hi>Spruce Crevat-ſtrings, Sword-knots,</hi> and the reſt of your Finical Dreſs. I dare be bold to challenge you in the Name of <hi>all our Sex;</hi> begin you, and ſhew a good Ex<g ref="char:EOLhyphen"/>ample, leave off all this effeminate Clutter; a<g ref="char:EOLhyphen"/>bandon your Fopperies and Vices, and act like Men of Senſe, and I'll engage the Women will quickly follow your Steps, and re-aſſuming the ancient Spirit and Valour of our renown'd An<g ref="char:EOLhyphen"/>ceſtors the <hi>Picts,</hi> we'll accompany you to the Wars, and make all the World to tremble at the Name of the <hi>Engliſh Amazons.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Burdet.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
